@@ -38,7 +38,7 @@ If you get stuck, visit the [IPT Support Server](https://discord.gg/AuJCUag). Th
 | fi-FI  | Finnish (Finland)                            | ❌     |
 | fr-CA  | French (Canada)                              | ❌     |
 | fr-FR  | French (France)                              | ✅     |
-| it-IT  | Italian (Italy)                              | ❌     |
+| it-IT  | Italian (Italy)                              | ✅     |
 | ja-JP  | Japanese (Japan)                             | ❌     |
 | ko-KR  | Korean (South Korea)                         | ❌     |
 | nb-NO  | Norwegian Bokmål (Norway)                    | ❌     |
