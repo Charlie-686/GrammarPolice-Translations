@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>priority_tone</Name>
+    <Action>priority_tone</Action>
+    <Phrases>
+        <string>сигнал сто</string>
+        <string>очистите сигнал сто</string>
+        <string>очистить сигнал сто</string>
+        <string>отмените сигнал сто</string>
+        <string>отменить сигнал сто</string>
+    </Phrases>
+</Command>

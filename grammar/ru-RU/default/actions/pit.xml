@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>pit</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>пит</string>
+        <string>пит маневр</string>
+        <string>пит маневор</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Pit</Target>
+</Action>

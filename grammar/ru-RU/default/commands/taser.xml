@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>taser</Name>
+    <Action>taser</Action>
+    <Phrases>
+        <string>тазер</string>
+        <string>тэйзер</string>
+        <string>тэйзар</string>
+	<string>применён тазер</string>
+        <string>применён тэйзер</string>
+        <string>применён тэйзар</string>
+	<string>был применён тазер</string>
+        <string>был применён тэйзер</string>
+        <string>был применён тэйзар</string>
+        <string>электрошокер</string>
+        <string>применён электрошокер</string>
+        <string>был применён электрошокер</string>
+        <string>использован тазер</string>
+        <string>использован тэйзер</string>
+        <string>использован тэйзар</string>
+        <string>использован электрошокер</string>
+        <string>был использован тазер</string>
+        <string>был использован тэйзер</string>
+        <string>был использован тэйзар</string>
+        <string>был использован электрошокер</string>
+    </Phrases>
+</Command>

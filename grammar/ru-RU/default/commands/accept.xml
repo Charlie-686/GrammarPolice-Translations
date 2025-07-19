@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>accept</Name>
+    <Action>accept</Action>
+    <Phrases>
+        <string>в пути</string>
+        <string>принято</string>
+        <string>отвечаю</string>
+        <string>проверю</string>
+        <string>отвечу</string>
+    </Phrases>
+</Command>

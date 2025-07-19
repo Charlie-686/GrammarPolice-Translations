@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface>
+    <menu name="Диспетчер">
+        <item name="Драка" action="fight" />
+        <item name="Человек Скончался" action="person_deceased" />
+        <item name="Человек Ранен" action="person_injured" />
+        <item name="Подозреваемый Задержан" action="suspect_custody" />
+        <item name="Подозреваемый Скрылся" action="suspect_lost" />
+        <item name="Визуальный контакт" action="visual" />
+    </menu>
+    <menu name="Подмога">
+       <item name="Код 2" action="code2" />
+       <item name="Код 2 Штат" action="code2state" />
+       <item name="Код 3" action="code3" />
+       <item name="Код 3 Штат" action="code3state" />
+       <item name="Трафик Стоп Повышенного Риска" action="felonystopbackup" />
+       <item name="Женщина Офицер" action="female" />
+       <item name="НУП" action="noose" />
+       <item name="SWAT" action="swat" />
+       <item name="Трафик Стоп" action="trafficstopbackup" />
+    </menu>
+    <menu name="Взаимодействие">
+       <item name="Положительно" action="yes" />
+       <item name="Отрицательно" action="no" />
+       <item name="Отменить Проверки" action="cancel_checks" />
+       <item name="Ситуация в Норме" action="normal" />
+    </menu>
+    <menu name="Погоня">
+       <item name="Воздушная Поддержка" action="air" />
+       <item name="Запрос PIT Манёвра" action="pit" />
+       <item name="Перекрыть Дорогу" action="roadblock" />
+       <item name="Полоса с Шипами" action="spikestrips" />
+    </menu>
+    <menu name="Запрос">
+       <item name="Контроль за животными" action="animal" />
+       <item name="Коронер" action="coroner" />
+       <item name="Парамедики" action="ems" />
+       <item name="Пожарные" action="fire" />
+       <item name="Страховая Компания" action="insurance" />
+       <item name="К9 Юнит" action="k9" />
+       <item name="Проверка Педа" action="pedcheck" />
+       <item name="Проверка Номера" action="platecheck" />
+       <item name="Проверка Рации" action="radiocheck" />
+       <item name="Номер Штрафа" action="ticketnumber" />
+       <item name="Эвакуатор" action="tow" />
+       <item name="Транспортировка" action="transport" />
+       <item name="Транспорт" action="vehicle" />
+    </menu>
+    <menu name="Статус">
+       <item name="Доступен" action="available" />
+       <item name="Занят" action="busy" />
+       <item name="Очистить" action="code4" />
+       <item name="В Погоне" action="pursuit" />
+       <item name="Расследование" action="investigating" />
+       <item name="Перерыв" action="mealbreak" />
+       <item name="В Патруле" action="onpatrol" />
+       <item name="Вне Зоны Действия" action="outofservice" />
+       <item name="Возвращение в Участок" action="station" />
+       <item name="На Месте" action="scene" />
+       <item name="Трафик Cтоп" action="traffic" />
+    </menu>
+    <menu name="Трафик">
+       <item name="Замедлить Трафик" action="traffic_control_slow" />
+       <item name="Остановить Трафик" action="traffic_control_stop" />
+       <item name="Очистить Трафик" action="traffic_control_clear" />
+    </menu>
+</interface>
+
+<!--
+Перевод создан: 
+- Dozel
+
+с любовью из
+╔══╗─╔═══╗╔══╗╔══╗─╔═══╗╔╗╔╗╔══╗───╔═══╗╔╗╔╗╔══╗╔══╗╔═════╗╔══╗╔═══╗╔╗╔╗╔═══╗
+║╔╗╚╗║╔══╝║╔╗║║╔╗╚╗║╔═╗║║║║║╚═╗║───║╔═╗║║║║║║╔═╝║╔╗║║─╔╦╗─║║╔╗║║╔══╝║║║║║╔═╗║
+║║╚╗║║╚══╗║╚╝║║║╚╗║║╚═╝║║╚╝║──║║───║╚═╝║║╚╝║║║──║║║║║─║║║─║║║║║║╚══╗║╚╝║║╚═╝║
+║║─║║║╔══╝║╔╗║║║─║║║╔══╝╚═╗║──║║───║╔══╝╚═╗║║║──║║║║║─╚╩╝─║║║║║║╔═╗║║╔╗║╚╗╔╗║
+║╚═╝║║╚══╗║║║║║╚═╝║║║─────║║──║║───║║────╔╝║║╚═╗║╚╝║╚═╗─╔═╝║╚╝║║╚═╝║║║║║─║║║║
+╚═══╝╚═══╝╚╝╚╝╚═══╝╚╝─────╚╝──╚╝───╚╝────╚═╝╚══╝╚══╝──╚═╝──╚══╝╚═══╝╚╝╚╝─╚╝╚╝
+в такое сложное для страны время
+-->
+
+

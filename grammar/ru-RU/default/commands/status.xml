@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>status</Name>
+    <Phrases>
+        <string>собираюсь</string>
+        <string>я</string>
+        <string>я собираюсь</string>
+        <string>укажите мне</string>
+        <string>укажите нам</string>
+        <string>у меня</string>
+        <string>десять</string>
+        <string>мы</string>
+        <string>мы собираемся</string>
+        <string>у нас</string>
+    </Phrases>
+</Command>

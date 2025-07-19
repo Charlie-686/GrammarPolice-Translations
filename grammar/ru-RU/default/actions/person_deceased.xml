@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>person_deceased</Name>   
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+	<string>мёртв</string>
+	<string>мертв</string>
+	<string>мертва</string>
+	<string>скончался</string>
+	<string>скончалась</string>
+	<string>погиб</string>
+	<string>погибла</string>
+	<string>подозреваемый мёртв</string>
+	<string>подозреваемый мертв</string>
+	<string>подозреваемая мертва</string>
+	<string>подозреваемый скончался</string>
+	<string>подозреваемая скончалась</string>
+	<string>подозреваемый погиб</string>
+	<string>подозреваемая погибла</string>
+	<string>человек скончался</string>
+	<string>человек погиб</string>
+	<string>человек умер</string>
+	<string>офицер мёртв</string>
+	<string>офицер мертв</string>
+	<string>офицер скончался</string>
+	<string>офицер погиб</string>
+	<string>гражданский мёртв</string>
+	<string>гражданский мертв</string>
+	<string>гражданский скончался</string>
+	<string>гражданский погиб</string>
+	<string>одинадцать сорок четыре</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Advisory.PersonDeceased</Target>
+</Action>

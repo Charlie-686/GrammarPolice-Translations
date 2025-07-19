@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code2state</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>код два штат</string>
+        <string>подмогу код два штат</string>
+        <string>подмога код два штат</string>
+        <string>поддержка код два штат</string>
+        <string>помощь код два штат</string>
+        <string>два штат</string>
+        <string>десять тридцать два код два штат</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code2State</Target>
+</Action>

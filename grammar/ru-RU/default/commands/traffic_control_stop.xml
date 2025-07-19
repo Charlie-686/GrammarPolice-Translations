@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_stop</Name>
+    <Action>traffic_control_stop</Action>
+    <Phrases>
+        <string>остановить весь трафик</string>
+        <string>остановить ближайший трафик</string>
+        <string>остановить трафик неподалеку</string>
+        <string>остановить трафик</string>
+        <string>остановите весь трафик</string>
+        <string>остановите ближайший трафик</string>
+        <string>остановите трафик неподалеку</string>
+        <string>остановите трафик</string>
+    </Phrases>
+</Command>

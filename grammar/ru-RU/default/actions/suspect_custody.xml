@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>suspect_custody</Name>
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>арестован</string>
+        <string>арестована</string>
+        <string>под стражей</string>
+        <string>подозреваемый арестован</string>
+        <string>подозреваемая арестована</string>
+        <string>подозреваемый под стражей</string>
+        <string>подозреваемая под стражей</string>
+        <string>подозреваемые арестованы</string>
+        <string>подозреваемые под стражей</string>
+        <string>задержен</string>
+        <string>задержан</string>
+        <string>задержена</string>
+        <string>задержана</string>
+        <string>подозреваемый задержан</string>
+        <string>подозреваемый задержен</string>
+        <string>подозреваемая задержана</string>
+        <string>подозреваемая задержена</string>
+        <string>подозреваемые задержаны</string>
+        <string>подозреваемые задержены</string>
+        <string>подозреваемый десять пятнадцать</string>
+        <string>подозреваемая десять пятнадцать</string>
+        <string>подозреваемые десять пятнадцать</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.SuspectCustody</Target>
+</Action>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>trafficstopbackup</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>подмога на трафик стоп</string>
+        <string>подмогу на трафик стоп</string>
+        <string>поддержка на трафик стоп</string>
+        <string>поддержку на трафик стоп</string>
+        <string>помощь на трафик стоп</string>
+	<string>десять тридцать два трафик</string>
+        <string>десять тридцать два на трафик</string>
+        <string>десять тридцать два трафик стоп</string>
+        <string>десять тридцать два на трафик стоп</string>
+	<string>подмога на трафик</string>
+        <string>подмогу на трафик</string>
+        <string>поддержка на трафик</string>
+        <string>поддержку на трафик</string>
+        <string>помощь на трафик</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.TrafficStopBackup</Target>
+</Action>

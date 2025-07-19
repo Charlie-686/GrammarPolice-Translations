@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>transport</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>тюремный транспорт</string>
+        <string>транспортировку</string>
+        <string>транспортировка</string>
+        <string>десять шестнадцать</string>
+        <string>десять тридцать два транспортировка</string>
+        <string>транспортировка подозреваемого</string>
+        <string>транспортировку подозреваемого</string>
+        <string>транспортировка подозреваемой</string>
+        <string>транспортировку подозреваемой</string>
+        <string>транспортировка подозреваемых</string>
+        <string>транспортировку подозреваемых</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Transport</Target>
+</Action>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>request</Name>
+    <Phrases>
+        <string>можете</string>
+        <string>можете отправить</string>
+        <string>код</string>
+        <string>запрашиваю</string>
+        <string>запрашиваем</string>
+        <string>необходим</string>
+        <string>необходимо</string>
+        <string>необходима</string>
+        <string>необходимы</string>
+        <string>отправьте</string>
+        <string>вышлите</string>
+        <string>пришлите</string>
+        <string>нам нужен</string>
+        <string>нам нужно</string>
+        <string>нам нужна</string>
+        <string>нам нужны</string>
+        <string>нужен</string>
+        <string>нужно</string>
+        <string>нужна</string>
+        <string>нужны</string>
+        <string>требуется</string>
+    </Phrases>
+</Command>

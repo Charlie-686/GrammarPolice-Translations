@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code3state</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>подмога штат</string>
+        <string>патруль штата</string>
+        <string>юнит штата</string>
+        <string>код три штат</string>
+        <string>подмогу код три штат</string>
+        <string>подмога код три штат</string>
+        <string>поддержка код три штат</string>
+        <string>помощь код три штат</string>
+        <string>три штат</string>
+        <string>десять тридцать два штат</string>
+        <string>десять тридцать два код три штат</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code3State</Target>
+</Action>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>ems</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>скорая</string>
+        <string>скорую</string>
+        <string>скорую помощь</string>
+        <string>скорая помощь</string>
+        <string>медик</string>
+        <string>медика</string>
+        <string>медиков</string>
+        <string>парамедик</string>
+        <string>парамедика</string>
+        <string>парамедиков</string>
+	<string>десять пятьдесят два</string>
+	<string>медицинская помощь</string>
+        <string>медицинскую помощь</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.EMS</Target>
+</Action>

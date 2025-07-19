@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_clear</Name>
+    <Action>traffic_control_clear</Action>
+    <Phrases>
+        <string>очистите весь трафик</string>
+        <string>очистить весь трафик</string>
+        <string>очистите трафик</string>
+        <string>очистить трафик</string>
+        <string>очистите трафик контроль</string>
+        <string>очистить трафик контроль</string>
+    </Phrases>
+</Command>

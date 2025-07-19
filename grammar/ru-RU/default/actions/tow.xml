@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>tow</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>буксир</string>
+        <string>буксировка</string>
+        <string>буксировку</string>
+        <string>эвакуатор</string>
+        <string>отбуксировать</string>
+	<string>десять пятьдесят один</string>
+        <string>буксировочная служба</string>
+        <string>услуга эвакуатора</string>
+        <string>услуги эвакуатора</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Tow</Target>
+</Action>

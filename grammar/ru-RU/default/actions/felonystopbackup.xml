@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>felonystopbackup</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>подмогу на остановку повышенного риска</string>
+        <string>подмога на остановку повышенного риска</string>
+        <string>поддержка на остановку повышенного риска</string>
+        <string>помощь на остановку повышенного риска</string>
+	<string>код пять</string>
+        <string>подмогу код пять</string>
+        <string>подмога код пять</string>
+        <string>поддержка код пять</string>
+        <string>помощь код пять</string>
+	<string>пять</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.FelonyStopBackup</Target>
+</Action>

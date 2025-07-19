@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>occupied</Name>
+    <Phrases>
+        <string>у нас четырёх местный</string>
+        <string>у нас тут четырёх местный</string>
+        <string>у нас здесь четырёх местный</string>
+        <string>у нас четырёх местный транспорт</string>
+        <string>у нас тут четырёх местный транспорт</string>
+        <string>у нас здесь четырёх местный транспорт</string>
+        <string>у нас двух местный</string>
+        <string>у нас тут двух местный</string>
+        <string>у нас здесь двух местный</string>
+        <string>у нас двух местный транспорт</string>
+        <string>у нас тут двух местный транспорт</string>
+        <string>у нас здесь двух местный транспорт</string>
+        <string>у нас четырёх дверный </string>
+        <string>у нас тут четырёх дверный</string>
+        <string>у нас здесь четырёх дверный</string>
+        <string>у нас четырёх дверный транспорт</string>
+        <string>у нас тут четырёх дверный транспорт</string>
+        <string>у нас здесь четырёх дверный транспорт</string>
+        <string>у нас двух дверный</string>
+        <string>у нас тут двух дверный</string>
+        <string>у нас здесь двух дверный</string>
+        <string>у нас двух дверный транспорт</string>
+        <string>у нас тут двух дверный транспорт</string>
+        <string>у нас здесь двух дверный транспорт</string>
+        <string>у нас седан</string>
+        <string>у нас тут седан</string>
+        <string>у нас здесь седан</string>
+        <string>у нас внедорожник</string>
+        <string>у нас тут внедорожник</string>
+        <string>у нас здесь внедорожник</string>
+        <string>у нас купэ</string>
+        <string>у нас тут купэ</string>
+        <string>у нас здесь купэ</string>
+        <string>у нас квадроцикл</string>
+        <string>у нас тут квадроцикл</string>
+        <string>у нас здесь квадроцикл</string>
+        <string>у нас гольф карт</string>
+        <string>у нас тут гольф карт</string>
+        <string>у нас здесь гольф карт</string>
+        <string>у нас гольф кар</string>
+        <string>у нас тут гольф кар</string>
+        <string>у нас здесь гольф кар</string>
+        <string>у нас мотоцикл</string>
+        <string>у нас тут мотоцикл</string>
+        <string>у нас здесь мотоцикл</string>
+        <string>у нас велосипед</string>
+        <string>у нас тут велосипед</string>
+        <string>у нас здесь велосипед</string>
+        <string>у меня четырёх местный</string>
+        <string>у меня тут четырёх местный</string>
+        <string>у меня здесь четырёх местный</string>
+        <string>у меня четырёх местный транспорт</string>
+        <string>у меня тут четырёх местный транспорт</string>
+        <string>у меня здесь четырёх местный транспорт</string>
+        <string>у меня четырёх дверный </string>
+        <string>у меня тут четырёх дверный</string>
+        <string>у меня здесь четырёх дверный</string>
+        <string>у меня четырёх дверный транспорт</string>
+        <string>у меня тут четырёх дверный транспорт</string>
+        <string>у меня здесь четырёх дверный транспорт</string>
+        <string>у меня двух дверный</string>
+        <string>у меня тут двух дверный</string>
+        <string>у меня здесь двух дверный</string>
+        <string>у меня двух дверный транспорт</string>
+        <string>у меня тут двух дверный транспорт</string>
+        <string>у меня здесь двух дверный транспорт</string>
+        <string>у меня двух местный</string>
+        <string>у меня тут двух местный</string>
+        <string>у меня здесь двух местный</string>
+        <string>у меня двух местный транспорт</string>
+        <string>у меня тут двух местный транспорт</string>
+        <string>у меня здесь двух местный транспорт</string>
+        <string>у меня седан</string>
+        <string>у меня тут седан</string>
+        <string>у меня здесь седан</string>
+        <string>у меня внедорожник</string>
+        <string>у меня тут внедорожник</string>
+        <string>у меня здесь внедорожник</string>
+        <string>у меня купэ</string>
+        <string>у меня тут купэ</string>
+        <string>у меня здесь купэ</string>
+        <string>у меня квадроцикл</string>
+        <string>у меня тут квадроцикл</string>
+        <string>у меня здесь квадроцикл</string>
+        <string>у меня гольф карт</string>
+        <string>у меня тут гольф карт</string>
+        <string>у меня здесь гольф карт</string>
+        <string>у меня гольф кар</string>
+        <string>у меня тут гольф кар</string>
+        <string>у меня здесь гольф кар</string>
+        <string>у меня мотоцикл</string>
+        <string>у меня тут мотоцикл</string>
+        <string>у меня здесь мотоцикл</string>
+        <string>у меня велосипед</string>
+        <string>у меня тут велосипед</string>
+        <string>у меня здесь велосипед</string>
+        <string>это четырёх местный</string>
+        <string>это двух местный</string>
+        <string>это четырёх местный транспорт</string>
+        <string>это двух местный транспорт</string>
+        <string>это четырёх дверный</string>
+        <string>это двух дверный</string>
+        <string>это четырёх дверный транспорт</string>
+        <string>это двух дверный транспорт</string>
+        <string>это седан</string>
+        <string>это внедорожник</string>
+        <string>это купэ</string>
+        <string>это квадроцикл</string>
+        <string>это гольф кар</string>
+        <string>это гольф карт</string>
+        <string>это мотоцикл</string>
+        <string>это велосипед</string>
+        <string>это будет четырёх местный</string>
+        <string>это будет двух местный</string>
+        <string>это будет четырёх местный транспорт</string>
+        <string>это будет двух местный транспорт</string>
+        <string>это будет четырёх дверный</string>
+        <string>это будет двух дверный</string>
+        <string>это будет четырёх дверный транспорт</string>
+        <string>это будет двух дверный транспорт</string>
+        <string>это будет седан</string>
+        <string>это будет внедорожник</string>
+        <string>это будет купэ</string>
+        <string>это будет квадроцикл</string>
+        <string>это будет гольф кар</string>
+        <string>это будет гольф карт</string>
+        <string>это будет мотоцикл</string>
+        <string>это будет велосипед</string>
+    </Phrases>
+</Command>

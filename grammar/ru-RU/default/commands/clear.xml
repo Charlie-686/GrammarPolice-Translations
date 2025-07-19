@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>clear</Name>
+    <Action>clear</Action>
+    <Phrases>
+        <string>ситуация под контролем</string>
+        <string>ситуация под контролем код четыре</string>
+        <string>очистите мой список вызовов</string>
+        <string>очистите наш список вызовов</string>
+        <string>покинул ситуацию</string>
+        <string>покинул место вызова</string>
+        <string>покинули ситуацию</string>
+        <string>покинули место вызова</string>
+        <string>покинуть ситуацию</string>
+        <string>покинуть место вызова</string>
+        <string>покинул ситуацию код четыре</string>
+        <string>покинул место вызова код четыре</string>
+        <string>покинули ситуацию код четыре</string>
+        <string>покинули место вызова код четыре</string>
+        <string>покинуть ситуацию код четыре</string>
+        <string>покинуть место вызова код четыре</string>
+        <string>код четыре</string>
+    </Phrases>
+</Command>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>female</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>женщина</string>
+        <string>женщину</string>
+        <string>женщина офицер</string>
+        <string>женщину офицера</string>
+	<string>десять тридцать два женский</string>
+	<string>десять тридцать два ф</string>
+        <string>десять тридцать два эф</string>
+	<string>подмогу женского юнита</string>
+        <string>подмога женского юнита</string>
+        <string>поддержка женского юнита</string>
+        <string>помощь женского юнита</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Female</Target>
+</Action>

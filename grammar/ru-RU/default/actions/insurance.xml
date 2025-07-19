@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>insurance</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>страховая</string>
+        <string>страховую</string>
+        <string>страховая компания</string>
+        <string>страховую компанию</string>
+        <string>страховая служба</string>
+        <string>страховую службу</string>
+	<string>страховой агент</string>
+   	<string>страхового агента</string>
+	<string>страховое агентсво</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Insurance</Target>
+</Action>

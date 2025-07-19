@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>startpatrol</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>начинаю патруль</string>
+        <string>начинаем патруль</string>
+        <string>выхожу в патруль</string>
+        <string>выходим в патруль</string>
+        <string>вышел в патруль</string>
+        <string>вышли в патруль</string>
+        <string>приступаю к патрулю</string>
+        <string>приступаем к патрулю</string>
+        <string>патрулирую</string>
+        <string>патрулируем</string>
+        <string>вернулся в патруль</string>
+        <string>вернулись в патруль</string>
+        <string>возвращаюсь в патруль</string>
+        <string>возвращаемся в патруль</string>
+        <string>возвращаюсь к патрулю</string>
+        <string>возвращаемся к патрулю</string>
+        <string>вернулся к патрулю</string>
+        <string>вернулись к патрулю</string>
+        <string>десять сорок один</string>
+        <string>сорок один</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.StartPatrol</Target>
+</Action>

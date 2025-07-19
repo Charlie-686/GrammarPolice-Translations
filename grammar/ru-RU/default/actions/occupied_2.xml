@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_2</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>внутри один дополнительная помощь не требуется</string>
+        <string>внутри два дополнительная помощь не требуется</string>
+        <string>внутри двое дополнительная помощь не требуется</string>
+        <string>внутри три дополнительная помощь не требуется</string>
+        <string>внутри трое дополнительная помощь не требуется</string>
+        <string>внутри один дополнительные юниты не требуются</string>
+        <string>внутри два дополнительные юниты не требуются</string>
+        <string>внутри двое дополнительные юниты не требуются</string>
+        <string>внутри три дополнительные юниты не требуются</string>
+        <string>внутри трое дополнительные юниты не требуются</string>
+        <string>внутри один помощь не требуется</string>
+        <string>внутри два помощь не требуется</string>
+        <string>внутри двое помощь не требуется</string>
+        <string>внутри три помощь не требуется</string>
+        <string>внутри трое помощь не требуется</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>2</Value>
+        </Parameter>
+    </Parameters>
+</Action>

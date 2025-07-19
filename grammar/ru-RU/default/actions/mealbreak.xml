@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>mealbreak</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>перерыв</string>
+        <string>на перерыве</string>
+        <string>обед</string>
+        <string>на обеде</string>
+	<string>десять пять</string>
+	<string>пять</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.MealBreak</Target>
+</Action>

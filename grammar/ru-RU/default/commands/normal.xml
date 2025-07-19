@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>normal</Name>
+    <Action>normal</Action>
+    <Phrases>
+        <string>ситуация в норме</string>
+        <string>всё в порядке</string>
+        <string>всё нормально</string>
+        <string>всё в норме</string>
+        <string>я в порядке</string>
+        <string>мы в порядке</string>
+        <string>я в норме</string>
+        <string>мы в норме</string>
+    </Phrases>
+</Command>

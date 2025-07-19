@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>swat</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>сват</string>
+        <string>тактический</string>
+        <string>сват юнит</string>
+        <string>тактический юнит</string>
+        <string>подмога сват</string>
+        <string>десять тридцать два сват</string>
+        <string>десять тридцать два тактический</string>
+        <string>десять тридцать два тактический</string> <!--НИКАКОГО БЛЯТЬ "СПЕЦНАЗА" В ЛА! Только СВАТ! Не одобрямс + минус вайбик -->
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Swat</Target>
+</Action>

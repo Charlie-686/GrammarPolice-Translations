@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>outofservice</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>десять семь</string>
+        <string>вне зоны действия</string>
+        <string>недоступен</string>
+        <string>недоступны</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.OutOfService</Target>
+</Action>

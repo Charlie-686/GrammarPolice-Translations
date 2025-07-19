@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code2</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>код два</string>
+        <string>подмогу код два</string>
+        <string>подмога код два</string>
+        <string>поддержка код два</string>
+        <string>помощь код два</string>
+        <string>два</string>
+        <string>десять тридцать два код два</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code2</Target>
+</Action>

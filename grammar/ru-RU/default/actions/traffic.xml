@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>traffic</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>трафик стоп</string>
+        <string>провожу трафик стоп</string>
+        <string>проводим трафик стоп</string>
+        <string>провести трафик стоп</string>
+        <string>останавливаю транспорт</string>
+        <string>останавливаем транспорт</string>
+        <string>останавливать транспорт</string>
+        <string>десять одинадцать</string>
+        <string>одинадцать</string>
+        <string>на десять одинадцать</string>
+        <string>провожу десять одинадцать</string>
+        <string>проводим десять одинадцать</string>
+        <string>провести десять одинадцать</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+</Action>

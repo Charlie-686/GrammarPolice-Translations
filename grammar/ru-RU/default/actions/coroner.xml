@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>coroner</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>коронёр</string>
+        <string>коронер</string>
+        <string>коронёры</string>
+        <string>коронеры</string>
+        <string>коронёров</string>
+        <string>коронеров</string>
+        <string>коронёра</string>
+        <string>коронера</string>
+        <string>криминалист</string>
+        <string>криминалисты</string>
+        <string>криминалиста</string>
+        <string>криминалистов</string>
+        <string>десять семдесят девять</string>
+        <string>судмедэксперт</string>
+        <string>судмедэксперта</string>
+        <string>судмедэкспертов</string>
+        <string>суд мед эксперт</string>
+        <string>суд мед эксперта</string>
+        <string>суд мед экспертов</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Coroner</Target>
+</Action>

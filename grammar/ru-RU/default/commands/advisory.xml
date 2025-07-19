@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advisory</Name>
+    <Phrases>
+        <string>у меня</string>
+        <string>у меня тут</string>
+        <string>у меня один</string>
+        <string>у меня два</string>
+        <string>у меня одна</string>
+        <string>у меня две</string>
+        <string>у меня три</string>
+        <string>у меня четыре</string>
+        <string>у меня тут один</string>
+        <string>у меня тут два</string>
+        <string>у меня тут одна</string>
+        <string>у меня тут две</string>
+        <string>у меня тут три</string>
+        <string>у меня тут четыре</string>
+
+        <string>у нас</string>
+        <string>у нас тут</string>
+        <string>у нас один</string>
+        <string>у нас два</string>
+        <string>у нас одна</string>
+        <string>у нас две</string>
+        <string>у нас три</string>
+        <string>у нас четыре</string>
+        <string>у нас тут один</string>
+        <string>у нас тут два</string>
+        <string>у нас тут одна</string>
+        <string>у нас тут две</string>
+        <string>у нас тут три</string>
+        <string>у нас тут четыре</string>
+      
+        <string>подозреваемый</string>
+        <string>подозреваемые</string>
+        <string>подозреваемая</string>
+        <string>гражданский</string>
+        <string>гражданские</string>
+    </Phrases>
+</Command>

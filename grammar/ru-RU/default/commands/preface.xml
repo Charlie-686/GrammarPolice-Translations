@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>preface</Name>
+    <Action>preface</Action>
+    <Phrases>
+        <string>диспетчер</string>
+        
+        <!--Здесь есть возможность добавить свой callsign. Если стриггерить preface, можно продолжить делать запрос. К сожалению ты сам должен добавить сюда свой callsign
+        пример:
+        <string>адам четырнадцать</string>
+        <string>один линкольн восемнадцать</string>
+        в ответ диспетчер должен ответить "go ahead" или "this is dispatch" после этого продолжай делать свой запрос-->
+    </Phrases>
+</Command>

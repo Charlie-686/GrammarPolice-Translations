@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>officerdown</Name>
+    <Action>officerdown</Action>
+    <Phrases>
+        <string>офицер на земле</string>
+        <string>офицер ранен</string>
+        <string>у нас офицер на земле</string>
+        <string>у нас офицер ранен</string>
+        <string>у меня офицер ранен</string>
+        <string>у меня офицер на земле</string>
+    </Phrases>
+</Command>

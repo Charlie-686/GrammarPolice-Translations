@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>suspect_lost</Name>   
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>визуал потерян</string>
+        <string>потерян с поля зрения</string>
+        <string>потерян из поля зрения</string>
+        <string>визуальный контакт потерян</string>
+        <string>потерян визуальный контакт</string>
+        <string>визуальный контакт с подозреваемым потерян</string>
+        <string>потерян визуальный контакт с подозреваемым</string>
+	<string>подозреваемый потерян</string>
+        <string>подозреваемый скрылся</string>
+        <string>подозреваемый ушел</string>
+        <string>подозреваемый сбежал</string>
+	<string>десять один</string>
+	<string>потерян</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Advisory.SuspectLost</Target>
+</Action>

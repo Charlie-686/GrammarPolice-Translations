@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>cancel_checks</Name>
+    <Action>cancel_checks</Action>
+    <Phrases>
+        <string>отмените проверки</string>
+        <string>я в порядке отмените проверки</string>
+        <string>мы в порядке отмените проверки</string>
+    </Phrases>
+</Command>
